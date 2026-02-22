@@ -30,4 +30,4 @@ In programming, a data type is a classification or categorization that specifies
    - **NoneType**: Represents the `None` object, which is used to indicate the absence of a value or a null value.
 
 8. **Custom Data Types:**
-   - You can also define your custom data types using classes and objects.
+   - You can also define your custom data types using classes and objects. [How ?](https://github.com/AkashdipMahapatra-BA/python-for-devops/blob/main/Day-02/OOPS.md)
