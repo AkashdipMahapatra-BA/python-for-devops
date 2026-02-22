@@ -28,8 +28,11 @@ At its core, Object-Oriented Programming is a paradigm (a way of thinking about 
 **2. The Four Pillars of OOP (Common Interview Question)**
 
 * **Encapsulation:** Wrapping data (attributes) and the methods that operate on them into a single unit (the class). It also restricts direct access to some of the object's components to prevent accidental interference.
+---
 * **Abstraction:** Hiding the complex background implementation and only showing the essential features to the user (like pressing a coffee machine button without knowing how the internal wiring works).
+---
 * **Inheritance:** Creating a new class that absorbs the properties and methods of an existing class, promoting code reusability.
+---
 * **Polymorphism:** The ability of different classes to be treated as instances of the same class through a common interface (e.g., a `.execute()` method that does different things depending on if it's running a Python script or a Shell script).
 
 ---
